@@ -5,7 +5,7 @@
   grid-template-areas: "title artist"
                         "item city" 
                         "nft  city"
-                        "nft  city"; 
+                        "nft  city";
   grid-column-gap: 40px;
   margin-bottom: 80px;
 }
@@ -28,7 +28,7 @@
                             "city" 
                             "nft";
   }
-
+}
 @media screen and (max-width: 320px) {
 
   .place{

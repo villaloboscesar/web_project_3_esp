@@ -5,7 +5,6 @@
   .page {
   
     box-sizing: border-box;
-    margin: 0;
     padding: 0;
     /* we don't know how to make mobile versions of websites yet, */
     /* so here we've set a minimum page width */
