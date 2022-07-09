@@ -1,4 +1,7 @@
-
+*{
+    
+    font-family: 'Inter', Arial, sans-serif;
+  }
   .page {
   
     box-sizing: border-box;
@@ -9,7 +12,6 @@
     color: #fff;
     background-color: #2A2C2F;
     margin: auto;
-    font-family: 'Inter', Arial, sans-serif;
     /* here we've set a maximum page width */
     /* this ensures that all content is centered on screens wider than 1600px */
     
