@@ -1,0 +1,25 @@
+.place__nft{
+    background: #0278FE;
+    padding: 13px 20px;
+    color: #fff;
+    grid-area: nft;
+    border-radius: 4px;
+    text-decoration: none; 
+}
+
+@media screen and (max-width: 706px){
+    .place__nft{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+ }
+}
+
+@media screen and (max-width: 320px) {
+
+    .place__nft{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;      
+    }
+}

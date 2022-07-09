@@ -1,0 +1,17 @@
+.lead__item{
+    max-width: 984px;
+    margin: auto;
+    margin-top: 64px;
+    }
+
+@media screen and (max-width: 768px){
+        .lead__item{
+            margin: 0;
+         }
+    }
+
+    @media screen and (max-width: 320px){
+    .lead__item{
+        max-width: 320px;
+    }
+}

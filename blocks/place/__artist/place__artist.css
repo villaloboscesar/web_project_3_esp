@@ -1,0 +1,23 @@
+.place__artist{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    padding-top: 107px;
+    grid-area: artist;
+}
+
+@media screen and (max-width: 706px){
+ 
+  
+    .place__artist{
+        padding-top: 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    .place__artist{
+        margin: 0 16px 8px 16px;
+        padding:0
+    }
+}

@@ -1,0 +1,44 @@
+.place{
+  margin: auto;
+  max-width: 76.8%;
+  display: grid;
+  grid-template-areas: "title artist"
+                        "item city" 
+                        "nft  city"
+                        "nft  city"; 
+  grid-column-gap: 40px;
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .place{
+      max-width: 720px;
+      margin: 0 24px;
+      grid-column-gap: 28px;
+  }
+}
+
+@media screen and (max-width: 706px){
+ 
+  .place{
+      grid-template-areas:  "title"
+                            "artist"
+                            "item"
+                            "city" 
+                            "nft";
+  }
+
+@media screen and (max-width: 320px) {
+
+  .place{
+      grid-template-areas:  "title"
+                            "artist"
+                            "item"
+                            "city" 
+                            "nft";
+     margin: 0;
+   }
+}
+
+

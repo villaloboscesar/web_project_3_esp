@@ -1,0 +1,19 @@
+.place__botom{
+    max-width: 355px;  
+}
+
+@media screen and (max-width: 706px){
+ 
+  .place__botom{
+        max-width: 288px;
+      
+    } 
+}
+
+@media screen and (max-width: 320px) {
+
+    .place__botom{
+       max-width: 288px;
+       margin: auto;   
+   }
+}
