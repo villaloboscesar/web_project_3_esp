@@ -1,12 +1,16 @@
 .place{
   margin: auto;
-  max-width: 76.8%;
+  max-width: 80%;
   display: grid;
   grid-template-areas: "title artist"
                         "item city" 
-                        "nft  city"
-                        "nft  city";
-  grid-column-gap: 40px;
+                        "nft city"
+                        "nft city";
+                       
+                        
+                        gap: 48px 40px;
+  
+                        
   margin-bottom: 80px;
 }
 
@@ -38,6 +42,9 @@
                             "city" 
                             "nft";
      margin: 0;
+   }
+   .place__container{
+    margin: auto;
    }
 }
 

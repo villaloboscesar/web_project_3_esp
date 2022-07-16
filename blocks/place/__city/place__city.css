@@ -3,6 +3,7 @@
     font-size: 18px;
     line-height: 1.63;
     grid-area: city;
+   
 }
 
 @media screen and (max-width: 320px) {
