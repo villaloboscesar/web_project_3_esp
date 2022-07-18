@@ -20,7 +20,9 @@
       max-width: 720px;
       margin: 0 24px;
       grid-column-gap: 28px;
+      margin-bottom: 92px;
   }
+
 }
 
 @media screen and (max-width: 706px){

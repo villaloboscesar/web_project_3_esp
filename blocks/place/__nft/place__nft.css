@@ -6,6 +6,8 @@
     cursor: pointer;
     max-width: 355px;
     max-height: 48px;
+    border: none;
+    outline: none;
 }
 
 @media screen and (max-width: 706px){
