@@ -9,6 +9,9 @@
    position: relative;
 }
 
+.cover:hover .cover__image{
+   opacity: 0.2;
+}
 @media screen and (max-width: 768px) {
     .cover{
         max-width: 768px;

@@ -1,0 +1,12 @@
+#one{
+    width: 150px;
+    height: 150px;
+    background: green;
+}
+#two{
+    width: 50px;
+    height: 50px;
+    background: blue;
+}
+
+#padre:hover #two { background: yellow; }

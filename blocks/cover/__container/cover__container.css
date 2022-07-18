@@ -2,11 +2,10 @@
     position: absolute;
     margin-bottom: 32px;
     text-align: center;
+    cursor: pointer;
 }
 
-.cover__container:hover .cover__image {
-    background: greenyellow;
-}
+
 @media screen and (max-width: 320px) {
 
     .cover__container{
