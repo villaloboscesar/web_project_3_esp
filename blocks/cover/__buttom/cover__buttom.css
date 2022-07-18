@@ -2,12 +2,19 @@
     text-decoration: none;
     font-weight: 600;
     font-size: 18px;
-   line-height: 22px;
+    line-height: 22px;
     color: #FFFFFF;
-
-    
+    background: #0278FE;
+    padding: 13px 20px;
+    border-radius: 4px;
+    margin-top: 32px;
+    max-width: 198px;
+    margin: auto;
+    cursor: pointer;
 }
-
+.cover__buttom:hover{
+    background: #0063d2;
+}
 @media screen and (max-width: 320px) {
 
     .cover__buttom{

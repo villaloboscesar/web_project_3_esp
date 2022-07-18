@@ -33,13 +33,11 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__buttom/cover__buttom.css);
-@import url(../blocks/cover/__container-buttom/cover__container-buttom.css);
 @import url(../blocks/cover/__image/cover__image.css);
 @import url(../blocks/cover/__image:hover/cover__image:hover.css);
 @import url(../blocks/cover/__container/cover__container.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__hover/cover__hover.css);
 @import url(../blocks/footer/footer.css);
 
 
