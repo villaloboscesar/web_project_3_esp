@@ -5,6 +5,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     margin-bottom: 32px; 
+   
 }
 
 @media screen and (max-width: 320px) {
